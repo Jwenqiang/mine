@@ -1,0 +1,17 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">巡店系统（webapp）</view></view>
+  	<view class="time">项目描述：<view class="text">基于公司其他部门的提议以及公司现阶段分店的管理情况、为了实现一个方便公司管理组管理分店卫生安全管理的应用而开发的，以表单打分的形式呈现。</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.传统移动端div+css布局</view>	      	
+		<view class="text">2.使用js控制条件查询联动效果</view>
+		<view class="text">3.使用layDate插件实现日期选取</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.项目前期沟通立项,原型图设计</view>	      	
+		<view class="text">2.前端展示页面开发及js联动实现</view>
+		<view class="text">3.各种移动设备测试，代码优化</view>
+	</view>
+</view>
+
+
+

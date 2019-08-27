@@ -1,0 +1,17 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">木屋烧烤官网（响应式网站）</view></view>
+  	<view class="time">项目描述：<view class="text">公司官方网站,网址：www.muwubbq.com</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.使用bootstrap框架</view>	      	
+		<view class="text">2.响应式布局</view>
+		<view class="text">3.CMS织梦建站</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.公司官网的风格布局设计</view>	      	
+		<view class="text">2.前端代码编写</view>
+		<view class="text">3.PC端浏览器兼容及移动端各种设备测试</view>
+	</view>
+</view>
+
+
+

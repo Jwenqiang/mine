@@ -1,0 +1,24 @@
+<view class="container">
+  <swiper indicator-dots="{{indicatorDots}}"
+    autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" circular="{{circular}}">
+    <block wx:for="{{imgUrls}}" wx:key="id" class="block">
+      <swiper-item>
+        <image src="{{item}}" class="image"/>
+      </swiper-item>
+    </block>
+  </swiper>
+  <view class="name">
+    项目名称：
+    <view class='line'>
+      <view class="text" bindtap="zyz"><image src='../../img/point.png'></image>1.转一转（小程序）</view>
+      <view class="text" bindtap="sunpan"><image src='../../img/point.png'></image>2.找笋盘（小程序）</view>
+      <view class="text" bindtap="ushop"><image src='../../img/point.png'></image>3.好房U购（微信公众号）</view>
+      <view class="text" bindtap="nh"><image src='../../img/point.png'></image>4.南航数据分析管理系统</view>   
+      <view class="text" bindtap="you"><image src='../../img/point.png'></image>5.巡店系统（webApp）</view>
+      <view class="text" bindtap="ai"><image src='../../img/point.png'></image>6.拍卖系统（webApp）</view>
+      <view class="text" bindtap="drink"><image src='../../img/point.png'></image>7.微商城（移动端）</view>
+      <view class="text" bindtap="bai"><image src='../../img/point.png'></image>8.绩效考核（webApp）</view>	  
+      <view class="text" bindtap="good"><image src='../../img/point.png'></image>9.木屋烧烤官网（响应式）</view>
+    </view>
+	</view>
+</view>

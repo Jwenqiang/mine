@@ -1,0 +1,23 @@
+<view class="container {{on}}" id='box'>
+	<view class="address">工作过的公司：
+    <text id='data'>2015/10-2018/05</text>
+    <view class="text">木屋烧烤总部（深圳正君餐饮）</view>
+		<view class="text">深圳家乐购电子商务有限公司</view>
+	</view>
+	<view class="line"></view>
+    <view class="address">目前就职：<view class="text">深圳中原xx公司</view>
+ 	</view>
+  	<view class="time">工作时间：<view class="text">2018.05-至今</view></view>
+	<view class="work">职位：<view class="text">前端开发工程师</view></view>
+	<view class="describe">工作描述：
+		<view class="text msg">1.团队内部围绕项目进行讨论研究，制定开发方案</view>	      	
+		<view class="text msg">2.根据方案协助产品对原型图，功能流程图的设计</view>
+		<view class="text msg">3.前端页面构建，CSS3结合原生js交互效果实现</view>
+    <view class="text msg">4.使用VUE构建项目及ES5/ES6显示数据逻辑和交互功能，对接后台调取后端接口前端渲染数据展示</view>
+		<view class="text msg">5.项目完成后的测试，代码及性能优化</view>
+		<view class="text msg">6.产品后期运行中遇到的问题跟进处理</view>
+	</view>
+</view>
+
+
+

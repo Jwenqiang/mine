@@ -1,0 +1,18 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">绩效考核（移动App）</view></view>
+  	<view class="time">项目描述：<view class="text">基于钉钉开发的公司内部所有员工每个月的绩效评估打分，其中包括每个月月初固定时间以消息推送的形式发给公司的每个主管由主管为自己的直属下级给设定的每个月目标完成情况打分.</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.采用问卷的形式呈现，题目以选择题及填空题呈现</view>	      	    	
+		<view class="text">2.使用div+css传统布局，实现页面搭建</view>
+		<view class="text">3.利用CSS3，实现页面的折叠效果</view>
+    <view class="text">4.jquery调取后端接口结合原生JS实现数据逻辑及交互功能</view>	  
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.项目前期沟通的立项，功能需求逻辑讨论,原型图制作</view>	      	
+		<view class="text">2.webapp前端页面代码编写</view>
+		<view class="text">3.优化前端代码，各种移动设备及浏览器测试</view>
+	</view>
+</view>
+
+
+

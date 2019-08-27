@@ -1,0 +1,25 @@
+<view class="container">
+<view class='tx'>
+  <image src='img/tx.jpg'></image>
+</view>
+	<view class="name"><text class="style" style='font-size:36rpx;'>{{name}}</text><text class="text" style='font-size:36rpx;'>{{array[0]}}</text></view>
+		<view class="sex"><text class="style">{{key[0]}}</text><text class="text">{{array[2]}}</text></view>
+		<view class="age"><text class="style">年龄：</text><text class="text">26</text></view>
+		<view class="job"><text class="text">前端开发</text></view>        
+		<view class="tel"><text class="style">电话：</text><text class="text phone" bindtap="callphone">17688922500</text></view>
+		<view class="email"><text class="style">邮箱：</text><text class="text">632795201@qq.com</text></view>
+    <view class="year"><text class="style">工作年限：</text><text class="text">四年</text></view>
+		<view class="address"><text class="style">学历/专业：</text><text class="text">本科计算机专业</text></view>        
+		<view class="address" id='addr'><text class="style">现居地：</text><text class="text">深圳宝安西乡</text></view>
+</view>
+<view id='down'>
+  <view id='ewm'>
+    <image src='img/ewm.jpg' catchtap='changeBig'></image>
+  </view>
+  <view id='intr'>
+    <text>欢迎各位前端爱好者一起加友交流~</text>
+    <image src='img/point.jpg'></image>
+    <text style='padding-top:40rpx;display:block;'>扫描此二维码加好友...</text>
+  </view>
+</view>
+<view id='contact'><label>在线联系：</label><button open-type='contact'>点击和我聊天</button></view>

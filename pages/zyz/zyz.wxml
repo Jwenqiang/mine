@@ -1,0 +1,13 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">转一转（小程序）</view></view>
+  	<view class="time">项目描述：<view class="text">微信小程序搜索"好房U购转一转"即可找到，这是一个利用小程序的便捷性分享转发宣传房地产楼盘项目的小程序，在用户转发宣传的同时我们也给与每次转发设置了一定的金额回馈，转发越多得到的钱相应就会多，具体功能流程:展示项目-截止时间内转发-分享好友、生成海报-后台结算发钱 我主要负责：原型定位，所有的前端开发工作，前端页面及交互通过小程序官方原生开发、js实现数据逻辑 </view></view>
+	<view class="work">技术要点：
+		<view class="text"> 1.官方原生组件实现前端页面布局，腾讯地图API开发实现楼盘的准确定位</view>	      	
+		<view class="text">2.小程序官方API及原生JS实现小程序的交互及数据逻辑，封装原生js对请求后端接口渲染数据处理</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.项目前期原型设计沟通，开发进度排期</view>	      	
+		<view class="text">2.前端页面组件布局对接小程序API及后台数据渲染展示交互</view>
+		<view class="text">3.IOS和安卓机型兼容测试，功能测试</view>
+	</view>
+</view>

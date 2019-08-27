@@ -1,0 +1,13 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">找笋盘（小程序）</view></view>
+  	<view class="time">项目描述：<view class="text">这是一个展示二手房笋盘的小程序，小程序里面设置了抢购、预约，在线咨询，需求定制，消息通知等专业找二手房源的一个小程序。我主要负责：前期需求讨论，产品定位，原型设计，官方原生组件及API实现前端页面，对接后台接口通过原生JS处理展示数据，产品现已上线，微信-小程序搜索“找笋盘”</view></view>
+	<view class="work">技术要点：
+		<view class="text"> 1.官方原生组件实现前端页面布局，腾讯地图API开发实现楼盘的准确定位</view>	      	
+		<view class="text">2.小程序官方API及原生JS实现小程序的交互及数据逻辑，封装原生js对请求后端接口渲染数据处理</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.项目前期原型设计沟通，开发进度排期</view>	      	
+		<view class="text">2.前端页面组件布局对接小程序API及后台数据渲染展示交互</view>
+		<view class="text">3.IOS和安卓机型兼容测试，功能测试</view>
+	</view>
+</view>

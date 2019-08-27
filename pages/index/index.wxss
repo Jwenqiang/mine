@@ -1,0 +1,76 @@
+.container{
+	display: block;
+	background-size: 100% 100%;
+	overflow: hidden;
+	padding-bottom: 120rpx;
+}
+.tx{
+  width: 200rpx;
+  float: left;
+  height: 200rpx;
+  margin: 60rpx 20rpx 20rpx;
+  overflow: hidden;
+  border-radius: 50%;
+
+}
+.tx image{width: 200rpx;height: 282rpx;}
+.name,.age,.sex,.job,.year,.tel,.email,.address{
+	font-size: 30rpx;
+	color: #333;
+  margin-bottom: 20rpx;
+}
+.name{float: left;margin-top: 60rpx; width: 66%;font-weight: 600;margin-bottom: 40rpx; }
+
+.job{position: absolute;width: 160rpx;top: 70rpx;right: 20rpx;}
+.job .text{font-weight: 600;}
+.sex{margin-right: 40rpx;}
+.sex,.age{width: 22%;float: left}
+.job .text{font-size: 32rpx;animation: ac 4s linear infinite alternate;}
+@keyframes ac{
+	from{transform: rotate(-8deg) scale(0.8);}
+	to{transform: rotate(8deg) scale(1.2);color: 333;}
+}
+.tel{width: 50%;float: left;}
+.email{width: 60%;margin-left: 240rpx;}
+.year{clear: left;float: left;padding-top: 20rpx;width: 260rpx;margin-left: 20rpx;}
+.year .style{text-align: left;width: 160rpx;}
+.address{
+  padding-top: 20rpx;
+  float: left;
+  width: 400rpx;
+  margin-left: 40rpx;
+}
+.style{
+	width: 120rpx;
+	display: block;
+	float: left;
+  font-weight: 400
+}
+.text{
+	display: block;
+	float: left;
+  font-size: 30rpx;
+	color: #333;
+  font-weight: 600
+}
+#addr{width: 100%;margin-left: 20rpx;}
+#addr .style{width: 130rpx;}
+.address .style{width:180rpx;}
+.name .style,.name.text{font-size: 34rpx;}
+.phone{
+	text-decoration: none;
+	color: #000;
+}
+#down{ border-top:1rpx solid #f5f5f5;box-shadow: 0 -2px 4px #ddd; }
+#ewm{width: 400rpx;height: 400rpx;float: left;}
+#ewm image{width: 100%;height: 100%;}
+#intr{margin-top: 20rpx;}
+#intr text{font-size: 28rpx}
+#intr image{width: 120rpx; margin-top: 20rpx; height: 120rpx;display: block;animation: img 2s ease-out infinite;transform: rotate(-45deg);}
+@keyframes img{
+  form{transform: scale(1.2) rotate(-30deg)}
+  to{transform: scale(0.8) rotate(-45deg)}
+}
+#contact{clear: both;margin-bottom: 60rpx;padding-left: 20rpx;}
+#contact label{display: inline-block;width: 160rpx;height: 80rpx;font-size: 28rpx;float: left;line-height: 80rpx;}
+#contact button{display: inline-block;width: 500rpx;float: left;height: 80rpx;line-height: 80rpx;font-size: 28rpx;border: none;background: none;}

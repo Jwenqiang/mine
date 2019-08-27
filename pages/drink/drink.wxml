@@ -1,0 +1,18 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">微商城（移动端）</view></view>
+  	<view class="time">项目描述：<view class="text">该商城主要针对公司分公司半成品工厂的食材网上销售以及分销设计开发的一个微商城WebAPP,功能流程类似淘宝，如：商品浏览、下单、结算、退单等</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.div+css准确布局</view>	      	
+		<view class="text">2.部分使用css3+html5技术实现动画效果</view>
+		<view class="text">3.js+jquery实现交互效果</view>
+		<view class="text">4.jquery.cookie实现首页固定时间弹公告信息以及localstorage、sessionstorage实现部分数据缓存</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.项目前期沟通立项，原型图设计</view>	      	
+		<view class="text">2.前端代码编写以及实现交互效果</view>
+		<view class="text">3.各种移动设备浏览器测试，代码优化</view>
+	</view>
+</view>
+
+
+

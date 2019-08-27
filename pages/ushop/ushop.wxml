@@ -1,0 +1,14 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">好房U购（微信公众号）</view></view>
+  	<view class="time">项目描述：<view class="text">基于微信公众号（好房U购）开发的一个类似贝克找房的webApp，在贝壳找房原有的功能下加入了公司一些创新的设计想法,比如异业合作：给合作公司一个自己的入口管理自己的客户，实时了解自己的客户详情以及成交后分佣等</view></view>
+	<view class="work">技术要点：
+		<view class="text"> 1.前后端分离开发使用weui实现页面，百度地图API开发实现楼盘的准确定位</view>	      	
+		<view class="text">2.用vue.js进行数据绑定及组件开发，原生JS实现数据逻辑，axios请求后端接口渲染数据</view>
+		<view class="text">3.使用localstorage、sessionstorage对后端部分数据进行缓存，提升请求速度</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.项目前期原型设计沟通，开发进度排期</view>	      	
+		<view class="text">2.前端页面布局及数据渲染交互</view>
+		<view class="text">3.各大浏览器兼容测试，功能测试，修复线上出现的各种问题</view>
+	</view>
+</view>

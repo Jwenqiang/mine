@@ -1,0 +1,14 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">南航数据分析管理系统</view></view>
+  	<view class="time">项目描述：<view class="text">公司和南方航空公司合作帮助南航做一个爬虫爬取针对用户对南航公司在各大网站上的-评价与建议这方面内容进行管理分析的系统</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.传统bootstrap响应式布局结合CSS3动画</view>	      	
+		<view class="text">2.采用vue.js进行数据绑定，axios请求后端接口渲染数据</view>
+		<view class="text">3.使用echarts对数据进行图标分析，展示各类图表功能</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.项目前期与南航沟通需求</view>	      	
+		<view class="text">2.前端页面布局及调取后端接口进行数据渲染</view>
+		<view class="text">3.各大浏览器兼容测试，功能测试保证项目上线无BUG</view>
+	</view>
+</view>

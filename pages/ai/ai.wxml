@@ -1,0 +1,17 @@
+<view class="container">
+    <view class="address">项目名称：<view class="text">拍卖系统（webapp）</view></view>
+  	<view class="time">项目描述：<view class="text">该项目的功能主要通过后台修改用户的积分让用户能在该应用进行拍卖出分的相关操作，拍到东西后微信消息提醒等，另外还有一个PC端同步出分实时情况的界面，每个人都能实时的看到相关拍品以及出分详情</view></view>
+	<view class="work">技术要点：
+		<view class="text">1.使用weui框架进行开发</view>	     
+		<view class="text">2.使用js+jquery实现交互效果</view>
+		<view class="text">3.使用photoshop进行图片处理</view>
+	</view>
+	<view class="describe">责任描述：
+		<view class="text">1.项目前期需求沟通，功能流程图以及原型图制作</view>	      	
+		<view class="text">2.利用weui框架进行前端界面开发</view>
+		<view class="text">3.使用不同移动设备测试及代码优化</view>
+	</view>
+</view>
+
+
+
